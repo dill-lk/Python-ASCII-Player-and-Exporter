@@ -81,7 +81,7 @@ __________________________________________________________
 
 Then clone your repo:
 _________________________________________________________
-git clone https://github.com/yourname/ultimate-ascii-suite
+git clone [https://github.com/yourname/ultimate-ascii-suite](https://github.com/dill-lk/Python-ASCII-Player-and-Exporter.git)
 _______________________________________________
 cd ultimate-ascii-suite
 _______________________________________________
